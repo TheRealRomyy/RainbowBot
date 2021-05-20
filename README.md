@@ -18,7 +18,7 @@
 ### 🤖 - How to create a bot and get his token
 
 1) Go to [Discord Developper Portal](https://discord.com/developers/applications)
-2) Click on the button [New Apllication](https://cdn.discordapp.com/attachments/763392166575603722/844995074038431784/new.PNG)
+2) Click on the button [New Application](https://cdn.discordapp.com/attachments/763392166575603722/844995074038431784/new.PNG)
 3) Type the name of your Application
 4) Go to the section [Bot](https://cdn.discordapp.com/attachments/763392166575603722/844995238606405712/bot.PNG)
 5) Click on the button "Build a bot"
