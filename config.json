@@ -1,0 +1,6 @@
+{
+    "token": "Enter here the bot token",
+    "time": "Enter here the interval for color changement (For example : 5d, 1h, 5m, 30s)",
+    "role": "Enter here the id of the role",
+    "server": "Enter here the id of the server where is the role"
+}
