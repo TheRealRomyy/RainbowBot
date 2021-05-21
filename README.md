@@ -6,7 +6,9 @@
 1) First, install [git](https://git-scm.com/downloads) on your computer
 2) Go to all file, do right click and click "[Git bash here](https://cdn.discordapp.com/attachments/763392166575603722/844993345666678795/bash.PNG)"
 3) Once you are on the terminal git type `git clone https://github.com/Whire-coder/RainbowBot` 
-4) Now, you have just to fill the file `config.json` and enjoy 😎
+4) Now, you have to fill the file `config.json` 
+5) Install [Node JS](https://nodejs.org/en/download/)
+6) Type in your folder's terminal the command `node main.js` and enjoy 😎
 
 # 💾 - How to fill the file `config.json`
 
